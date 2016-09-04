@@ -45,7 +45,7 @@ You can also specify the design spec in a raw JSON resource like:
           "size": 16,
           "from": "LEFT" },
         { "offset": 0,
-          "size": 16,
+          "size": -16,
           "from": "RIGHT" }
     ]
 }
